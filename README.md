@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavita</h1>
 <h4 align="center">Passionate MCA student with a strong interest in Software Development and Computer Science. Eager to explore and learn new technologies while applying my knowledge to real-world projects. Skilled in programming languages like Java, Python, C, and C++, with experience in web development, database management, and data analysis. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community. Always striving to improve my skills and stay updated with the latest industry trends. Let's connect and build something amazing together!"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavita1306&label=Profile%20views&color=0e75b6&style=flat" alt="kavita1306" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning. I am also familiar with a number of popular data science libraries, such as NumPy, Pandas, and Scikit-Learn.**
 
