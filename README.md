@@ -9,19 +9,19 @@
   
 # 🛠️ Skills 
 #### 📚 Languages
-typescript, javascript, python, C++, C, java, php, 
+* typescript, javascript, python, C++, C, java, php, 
 #### 📚 Front-End Development
-React, Angular, Bootstrap, CSS3, HTML5, JQuery, SASS, Tailwind CSS
+* React, Angular, Bootstrap, CSS3, HTML5, JQuery, SASS, Tailwind CSS
 #### 📚 Backend - Development
-Nodejs
+* Nodejs
 #### 📚 Blockchain - Development
-Ethereum, Web3, Solidity
+* Ethereum, Web3, Solidity
 #### 📚 Database
-MongoDB, MySQL, Oracle, SQLite
+* MongoDB, MySQL, Oracle, SQLite
 #### 📚 AI/ML
-pandas, OpenCV, TensorFlow, Scikit_Learn
+* pandas, OpenCV, TensorFlow, Scikit_Learn
 #### 📚 Design Tools
-Canva, AdobeXD, Figma, Photoshop, blender, AI Illustrator
+* Canva, AdobeXD, Figma, Photoshop, blender, AI Illustrator
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavita1306&show_icons=true&locale=en&layout=compact" alt="kavita1306" /></p>
 
