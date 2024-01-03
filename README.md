@@ -24,6 +24,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kavita1306&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kavita1306&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kavita1306&theme=dark&hide_border=false)<br/>
